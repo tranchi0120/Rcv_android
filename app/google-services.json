@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246567472409",
+    "firebase_url": "https://android-rcv-default-rtdb.firebaseio.com",
+    "project_id": "android-rcv",
+    "storage_bucket": "android-rcv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246567472409:android:19812ff589ff3da9f70988",
+        "android_client_info": {
+          "package_name": "com.example.rcv_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246567472409-vh9r4uom0sgi9aatsdr2v9mse3mfqfnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApCIfZPZVkHzTme4hl5lYflgBHmXWpwIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246567472409-vh9r4uom0sgi9aatsdr2v9mse3mfqfnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
